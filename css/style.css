@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(46, 48, 45);
+    color: burlywood;
+}
+a {
+    color: cyan;
+}
+.intro {
+    font-size: 24px;
+}
+#orbita {
+    color: lightgreen;
+}
+.marstitle {
+    color: lightsalmon
+}
